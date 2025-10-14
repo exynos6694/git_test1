@@ -1,4 +1,4 @@
 commit은 메시지
 remote는 add origin
-push는 origin main
+pull/push는 origin main
 add 파일은 commit할 때만
